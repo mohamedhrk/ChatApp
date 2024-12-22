@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377962274472",
+    "project_id": "chat-app-f1092",
+    "storage_bucket": "chat-app-f1092.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377962274472:android:0d18769d01eee3e9cdac9d",
+        "android_client_info": {
+          "package_name": "com.hagag.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJpbh36cm7yFdMD-lRdijxX39TyT_0Hh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
